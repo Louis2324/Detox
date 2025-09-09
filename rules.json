@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,
+        "priority":1,
+        "action":{"type":"redirect","redirect":{"extensionPath":"/detox.html"}},
+        "condition": {
+            "urlFilter":"youtube.com/shorts/*",
+            "resource_types":["main_frame"]
+        }
+    }
+]
