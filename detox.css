@@ -1,16 +1,12 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
-    font-family:monospace;
-    font-size: large;
-}
-
 body {
-    display: flex;
-    flex-direction: column;
-    background-color: #872682;
-    color: #eee;
-    align-items: center;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  line-height: 1.5rem;
+  margin-top: 100px;
+  background: #f7f7f7;
+  color: #333;
 }
-
+h1 {
+  color: red;
+  text-decoration: wavy;
+}
