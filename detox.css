@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:monospace;
+    font-size: large;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #872682;
+    color: #eee;
+    align-items: center;
+}
+
