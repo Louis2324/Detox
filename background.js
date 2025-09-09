@@ -1,4 +1,4 @@
-const DAILY_LIMIT = 1* 60 * 1000;
+const DAILY_LIMIT = 30* 60 * 1000;
 let usage = {};
 
 function getToday() {
