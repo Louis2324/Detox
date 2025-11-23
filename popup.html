@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./popup.css">
+    <title>Detox</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Detox</h1>
+        <div class="feature-toggle">
+            <label >
+              <input type="checkbox" id="grayscaleToggle">
+              Grayscale Mode
+            </label>
+        </div>
+
+        <div class="feature-toggle">
+            <label>
+                <input type="checkbox"  id="pauseToggle">
+                Mindful Pauses 
+            </label>
+        </div>
+
+        <div class="time-tracker">
+            <h3> Today's usage</h3>
+            <div id="timeDisplay">0 minutes</div>
+        </div>
+
+        <button id="settingBtn">Advanced Settings</button>
+    </div>
+
+    <script src="./popup.js"></script>
+</body>
+</html>
