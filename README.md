@@ -1,7 +1,3 @@
-# Detox ( Browser Extension )
-
-```markdown
-
 #  Detox 
 ---
 
@@ -152,8 +148,6 @@ Detox respects your privacy:
 
 Take back control of your time and attention. Small changes today lead to lasting habits tomorrow.
 
-**Remember**: This isn't about eliminating social media, but about building a healthier relationship with technology.
-
+**Remember**: This isn't about eliminating social media, but about building a *healthier relationship* with technology.
 ---
 *Detox v1.0 | Based on behavioral psychology principles | Made by [Louis2324](https:github.com/Louis2324)*
-```
